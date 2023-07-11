@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "RedmiK305G",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/picasso-q-oss",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
       "branch": "picasso-q-oss",
       "device": "picasso",
       "defconfig": "vendor/picasso_user_defconfig"
